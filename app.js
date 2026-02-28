@@ -40,6 +40,30 @@ function setOptions(selectEl, values, firstLabel){
   if ([...selectEl.options].some(o=>o.value===current)) selectEl.value = current;
 }
 
+/**
+ * Display rate safely.
+ * - For late_filer: if missing/blank/'-' => "Not applicable"
+ * - For others: if missing/blank => "-"
+ */
+function displayRate(row, key){
+  const val = row?.rates?.[key];
+
+  if (key === "late_filer") {
+    if (
+      val === null ||
+      val === undefined ||
+      String(val).trim() === "" ||
+      String(val).trim() === "-"
+    ) {
+      return "Not applicable";
+    }
+    return String(val);
+  }
+
+  if (val === null || val === undefined || String(val).trim() === "") return "-";
+  return String(val);
+}
+
 function render(){
   const q = norm(elQ.value);
   const sec = elSection.value;
@@ -74,7 +98,7 @@ function render(){
 
     const tdRate = document.createElement("td");
     tdRate.className = "right";
-    tdRate.textContent = (r.rates && r.rates[rateKey]) ? r.rates[rateKey] : "-";
+    tdRate.textContent = displayRate(r, rateKey);
 
     tr.appendChild(tdSec);
     tr.appendChild(tdTitle);
@@ -88,7 +112,7 @@ function render(){
 function openDrawer(r){
   dSection.textContent = r.section || "";
   dTitle.textContent = `${r.category ? r.category + " — " : ""}${r.title || ""}`;
-  dRate.textContent = (r.rates && r.rates[rateKey]) ? r.rates[rateKey] : "-";
+  dRate.textContent = displayRate(r, rateKey);
 
   dNotes.innerHTML = "";
   (r.notes || []).forEach(n=>{
