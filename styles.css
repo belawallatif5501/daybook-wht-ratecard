@@ -214,3 +214,23 @@ tr.dataRow:hover{background: rgba(17,24,39,.02)}
 .value{font-size:14px}
 .muted{color:var(--muted)}
 .list{margin:0; padding-left:18px; color:var(--text)}
+/* Disclosure banner */
+.alert{
+  margin: 14px 0 10px;
+  padding: 12px 12px;
+  border-radius: 14px;
+  border: 1px solid #fecaca;
+  background: #fee2e2;
+  color: #991b1b;
+  font-size: 13px;
+  line-height: 1.35;
+}
+
+.blink{
+  animation: blinkFade 1.2s infinite;
+}
+
+@keyframes blinkFade{
+  0%, 100% { opacity: 1; }
+  50% { opacity: .45; }
+}
