@@ -1,1558 +1,587 @@
 [
-  {
-    "section": "148",
-    "category": "Imports",
-    "title": "",
-    "notes": [],
-    "rates": {
-      "atl": "1.00%",
-      "non_atl": "2.00%",
-      "late_filer": ""
-    },
-    "reference": "Part-II of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "148",
-    "category": "Imports",
-    "title": "Proviso 1 (a) manufacturers falling in SRO 1125(I)/2011 of 31.12.11",
-    "notes": [],
-    "rates": {
-      "atl": "1.00%",
-      "non_atl": "2.00%",
-      "late_filer": ""
-    },
-    "reference": "Part-II of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "148",
-    "category": "Imports",
-    "title": "Proviso 1 (b) pharma products",
-    "notes": [],
-    "rates": {
-      "atl": "4.00%",
-      "non_atl": "8.00%",
-      "late_filer": ""
-    },
-    "reference": "Part-II of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "148",
-    "category": "Imports",
-    "title": "Proviso 1 (c) CKD kits for EVs",
-    "notes": [
-      "Proviso 2 rates for mobile phones PCT 8517.1219 Rs. 70 to Rs. 11,500 Rs. 140 to Rs. 23,000",
-      "Proviso 2 rates for mobile phones PCT 8517.1211 Rs. 0 to Rs. 5,200 Rs. 0 to Rs. 10,400"
-    ],
-    "rates": {
-      "atl": "1.00%",
-      "non_atl": "2.00%",
-      "late_filer": ""
-    },
-    "reference": "Part-II of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "149",
-    "category": "Salary",
-    "title": "Where taxable income does not exceed Rs. 600,000",
-    "notes": [],
-    "rates": {
-      "atl": "Rs. 0%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-I, Part-I of First Schedule read with R.10(a) of Tenth Schedule"
-  },
-  {
-    "section": "149",
-    "category": "Salary",
-    "title": "Where taxable income exceeds Rs. 600,000 but does not exceed Rs. 1,200,000",
-    "notes": [],
-    "rates": {
-      "atl": "1% of the amount exceeding Rs. 600,000",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-I, Part-I of First Schedule read with R.10(a) of Tenth Schedule"
-  },
-  {
-    "section": "149",
-    "category": "Salary",
-    "title": "Where taxable income exceeds Rs. 1,200,000 but does not exceed Rs. 2,200,000",
-    "notes": [
-      "the amount",
-      "exceeding Rs.",
-      "1,200,000",
-      "Where taxable income exceeds Rs. 3,200,000 but does not exceed Rs. 4,100,000 Rs. 346,000 +",
-      "amount exceeding",
-      "Rs. 3,200,000"
-    ],
-    "rates": {
-      "atl": "Rs 6000 + 11.00% of",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-I, Part-I of First Schedule read with R.10(a) of Tenth Schedule"
-  },
-  {
-    "section": "149",
-    "category": "Salary",
-    "title": "Where taxable income exceeds Rs. 4,100,000",
-    "notes": [],
-    "rates": {
-      "atl": "Rs. 616,000 + 35.00% of the amount exceeding Rs. 4,100,000",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-I, Part-I of First Schedule read with R.10(a) of Tenth Schedule"
-  },
-  {
-    "section": "149",
-    "category": "Salary",
-    "title": "Where taxable income exceeds Rs. 10,000,000",
-    "notes": [
-      "the amount",
-      "exceeding Rs.",
-      "4,100,000 &"
-    ],
-    "rates": {
-      "atl": "Rs. 616,000 + 35% of",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-I, Part-I of First Schedule read with proviso to section 4AB and R.10(a) of Tenth Schedule"
-  },
-  {
-    "section": "149(IA)",
-    "category": "Pension",
-    "title": "Where the amount of pension received does not exceed Rs. 10 million",
-    "notes": [],
-    "rates": {
-      "atl": "0% of the amount",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "149(IA)",
-    "category": "Pension",
-    "title": "Where the amount of pension received exceeds Rs. 10 million Age below 70 years",
-    "notes": [
-      "amount exceeding",
-      "Rs. 10 million plus",
-      "Where an individual continues to work for former employer or its associate"
-    ],
-    "rates": {
-      "atl": "5.00% of the",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-I of Part-I of First Schedule and section 4AB"
-  },
-  {
-    "section": "150",
-    "category": "Dividend",
-    "title": "Paid by Independent Power Purchasers (IPPs)",
-    "notes": [],
-    "rates": {
-      "atl": "7.50%",
-      "non_atl": "15.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-I, Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "150",
-    "category": "Dividend",
-    "title": "Mutual funds, contingent upon proportional",
-    "notes": [
-      "income derived from average annual investment",
-      "in debt securities and equities respectively"
-    ],
-    "rates": {
-      "atl": "25% and 15%",
-      "non_atl": "50% and 30%",
-      "late_filer": ""
-    },
-    "reference": "Division-I, Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "150",
-    "category": "Dividend",
-    "title": "Mutual funds deriving fifty percent or more income from profit on debt",
-    "notes": [],
-    "rates": {
-      "atl": "25.00%",
-      "non_atl": "50.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-I, Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "150",
-    "category": "Dividend",
-    "title": "Dividend received by a REIT scheme from Special Purpose Vehicle",
-    "notes": [],
-    "rates": {
-      "atl": "0.00%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-I, Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "150",
-    "category": "Dividend",
-    "title": "Dividend received by others from Special Purpose Vehicle as defined under the Real Estate Investment Trust Regulations, 2015",
-    "notes": [],
-    "rates": {
-      "atl": "35.00%",
-      "non_atl": "70.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-I, Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "150",
-    "category": "Dividend",
-    "title": "A company where no tax is payable by such",
-    "notes": [
-      "company due to exemption of income or carry",
-      "forward of business losses under Part VIII, Chapter",
-      "III or claim of tax credits under Part X of Chapter",
-      "III"
-    ],
-    "rates": {
-      "atl": "25.00%",
-      "non_atl": "50.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-I, Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "151",
-    "category": "Profit on Debt",
-    "title": "On yield or profit paid by a banking company or financial institution on an account or deposit maintained with such company or institution",
-    "notes": [],
-    "rates": {
-      "atl": "20.00%",
-      "non_atl": "40.00%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "151",
-    "category": "Profit on Debt",
-    "title": "On yield or profit on Government securities under",
-    "notes": [
-      "clause (c) of sub-section (1) of section 151 paid to",
-      "any person other than an individual"
-    ],
-    "rates": {
-      "atl": "20.00%",
-      "non_atl": "40.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-IA, Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "151",
-    "category": "Profit on Debt",
-    "title": "Profit on debt on sukuk by SPV or a company under sub-section (1A) When sukuk-holder is a company",
-    "notes": [],
-    "rates": {
-      "atl": "25.00%",
-      "non_atl": "50.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-IB, Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "151",
-    "category": "Profit on Debt",
-    "title": "Profit on debt on sukuk by SPV or a company under sub-section (1A) When sukuk-holder is an individual or AOP with return on investment greater than Rs. 1 million",
-    "notes": [],
-    "rates": {
-      "atl": "12.50%",
-      "non_atl": "25.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-IB, Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "151",
-    "category": "Profit on Debt",
-    "title": "Profit on debt on sukuk by SPV or a company under sub-section (1A) When sukuk-holder is an individual",
-    "notes": [
-      "or AOP with return on investment",
-      "less than Rs. 1 million"
-    ],
-    "rates": {
-      "atl": "10.00%",
-      "non_atl": "20.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-IB, Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "151A",
-    "category": "Gain on Securities",
-    "title": "Gain arising on disposal of certain debt securities",
-    "notes": [],
-    "rates": {
-      "atl": "15.00% of the gross amount of capital gain",
-      "non_atl": "30.00% of the gross amount of capital gain",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "152",
-    "category": "Payment to Non-Residents",
-    "title": "Sub-section (1)",
-    "notes": [],
-    "rates": {
-      "atl": "15.00%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-IV of Part-I of First Schedule"
-  },
-  {
-    "section": "152",
-    "category": "Payment to Non-Residents",
-    "title": "Sub-section (1A)",
-    "notes": [],
-    "rates": {
-      "atl": "7.00%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-IV of Part-I of First Schedule"
-  },
-  {
-    "section": "152",
-    "category": "Payment to Non-Residents",
-    "title": "Sub-section (1AA)",
-    "notes": [
-      "read with R.10 (b), (ba), (bb) of Tenth"
-    ],
-    "rates": {
-      "atl": "5.00%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-III of First Schedule,"
-  },
-  {
-    "section": "152",
-    "category": "Payment to Non-Residents",
-    "title": "Sub-section (1AAA)",
-    "notes": [],
-    "rates": {
-      "atl": "10.00%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-III of First Schedule,"
-  },
-  {
-    "section": "152",
-    "category": "Payment to Non-Residents",
-    "title": "Sub-section (1BA) Section 152(1BA)",
-    "notes": [],
-    "rates": {
-      "atl": "20.00%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-III of First Schedule,"
-  },
-  {
-    "section": "152",
-    "category": "Payment to Non-Residents",
-    "title": "Sub-section (1C)",
-    "notes": [],
-    "rates": {
-      "atl": "10.00%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-III of First Schedule,"
-  },
-  {
-    "section": "152",
-    "category": "Payment to Non-Residents",
-    "title": "Sub-section (1D) Holding period greater than 12 months",
-    "notes": [],
-    "rates": {
-      "atl": "10.00%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-III of First Schedule"
-  },
-  {
-    "section": "152",
-    "category": "Payment to Non-Residents",
-    "title": "Sub-section (1D) Holding period less than 12 months",
-    "notes": [],
-    "rates": {
-      "atl": "10.00%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-III of First Schedule"
-  },
-  {
-    "section": "152",
-    "category": "Payment to Non-Residents",
-    "title": "Sub-section (1DA)",
-    "notes": [],
-    "rates": {
-      "atl": "10.00%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-III of First Schedule"
-  },
-  {
-    "section": "152",
-    "category": "Payment to Non-Residents",
-    "title": "Sub-section (1DB) a. In case the sukuk holder is a company",
-    "notes": [],
-    "rates": {
-      "atl": "25.00%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-III of First Schedule"
-  },
-  {
-    "section": "152",
-    "category": "Payment to Non-Residents",
-    "title": "Sub-section (1DB) b. In case the sukuk holder is an",
-    "notes": [
-      "individual or an association of",
-      "persons, if the return on",
-      "investment is more than Rs. one",
-      "million"
-    ],
-    "rates": {
-      "atl": "12.50%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-IB of Part-III of First Schedule"
-  },
-  {
-    "section": "152",
-    "category": "Payment to Non-Residents",
-    "title": "Sub-section (1DB) c. In case the sukuk holder is an individual and an association of persons, if the return on investment is less than Rs. one million",
-    "notes": [],
-    "rates": {
-      "atl": "10.00%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-IB of Part-III of First Schedule"
-  },
-  {
-    "section": "152(2A)",
-    "category": "(a)",
-    "title": "Company",
-    "notes": [],
-    "rates": {
-      "atl": "5.00%",
-      "non_atl": "10.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-III of First Schedule read with R.1, Tenth Schedule"
-  },
-  {
-    "section": "152(2A)",
-    "category": "(a)",
-    "title": "Other than company",
-    "notes": [],
-    "rates": {
-      "atl": "5.50%",
-      "non_atl": "11.00%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "152(2A)",
-    "category": "(b)",
-    "title": "Rendering of or providing of certain",
-    "notes": [
-      "IT services and IT enabled services",
-      "as defined in section 2"
-    ],
-    "rates": {
-      "atl": "4.00%",
-      "non_atl": "8.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-III of First Schedule read with R.1, Tenth Schedule"
-  },
-  {
-    "section": "152(2A)",
-    "category": "(b)",
-    "title": "Rendering of or providing of services other than IT services and IT enabled services as defined in section 2",
-    "notes": [],
-    "rates": {
-      "atl": "8.00%",
-      "non_atl": "16.00%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "152(2A)",
-    "category": "(b)",
-    "title": "Rendering of or providing of",
-    "notes": [
-      "services other than sub-paragraph"
-    ],
-    "rates": {
-      "atl": "15.00% of the gross amount payable",
-      "non_atl": "30.00% of the gross amount payable",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-III of First Schedule read with R.1, Tenth Schedule"
-  },
-  {
-    "section": "152(2A)",
-    "category": "(c) on execution of a contract, other than a contract for sale of goods or rendering of or providing services",
-    "title": "Sports persons",
-    "notes": [],
-    "rates": {
-      "atl": "15.00% of the gross amount payable",
-      "non_atl": "30.00% of the gross amount payable",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "152(2A)",
-    "category": "(c) on execution of a contract, other than",
-    "title": "Other than sports persons",
-    "notes": [
-      "a contract for sale of goods or rendering of or",
-      "providing services"
-    ],
-    "rates": {
-      "atl": "8.00% of the gross amount payable",
-      "non_atl": "16.00% of the gross amount payable",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-III of First Schedule read with R.1, Tenth Schedule"
-  },
-  {
-    "section": "153",
-    "category": "Payment for",
-    "title": "153(1)(a) Supplies In case of sale of rice, cotton seed or edible oils",
-    "notes": [
-      "Goods, Services,",
-      "a nd Contracts"
-    ],
-    "rates": {
-      "atl": "1.50%",
-      "non_atl": "3.00%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "153(1)(a)",
-    "category": "Supplies",
-    "title": "For companies in cases of toll manufacturing",
-    "notes": [],
-    "rates": {
-      "atl": "9.00%",
-      "non_atl": "18.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "153(1)(a)",
-    "category": "Supplies",
-    "title": "In cases other than companies, for toll manufacturing",
-    "notes": [],
-    "rates": {
-      "atl": "11.00%",
-      "non_atl": "22.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "153(1)(a)",
-    "category": "Supplies",
-    "title": "In cases other than companies, other than toll manufacturing",
-    "notes": [],
-    "rates": {
-      "atl": "5.50%",
-      "non_atl": "11.00%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "153(1)(b)",
-    "category": "Services",
-    "title": "In case of certain services",
-    "notes": [],
-    "rates": {
-      "atl": "6.00%",
-      "non_atl": "12.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "153(1)(b)",
-    "category": "Services",
-    "title": "In case of IT & IT enabled services as defined in section 2",
-    "notes": [],
-    "rates": {
-      "atl": "4.00%",
-      "non_atl": "8.00%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "153(1)(b)",
-    "category": "Services",
-    "title": "For services other than mentioned",
-    "notes": [
-      "in sub-para (i) of para (2) of"
-    ],
-    "rates": {
-      "atl": "15.00% of the gross amount payable",
-      "non_atl": "30.00% of the gross amount payable",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "153(1)(b)",
-    "category": "Services",
-    "title": "In respect of persons making payments to electronic and print media for advertising services",
-    "notes": [],
-    "rates": {
-      "atl": "1.50% of the gross amount payable",
-      "non_atl": "3.00% of the gross amount payable",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "153(1)(c)",
-    "category": "Contracts",
-    "title": "In case of sportspersons",
-    "notes": [],
-    "rates": {
-      "atl": "15.00%",
-      "non_atl": "30.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "153(1)(c)",
-    "category": "Contracts",
-    "title": "Company",
-    "notes": [],
-    "rates": {
-      "atl": "7.50%",
-      "non_atl": "15.00%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "153(1)(c)",
-    "category": "Contracts",
-    "title": "Any other case",
-    "notes": [],
-    "rates": {
-      "atl": "8.00%",
-      "non_atl": "16.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "153(2)",
-    "category": "For rendering of or providing certain services to exporters or export houses",
-    "title": "",
-    "notes": [],
-    "rates": {
-      "atl": "1.00%",
-      "non_atl": "2.00%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "153(2A)",
-    "category": "Payment for digitally ordered goods or",
-    "title": "Through digital means or banking channels by payment intermediary",
-    "notes": [
-      "digitally ordered services through e-commerce",
-      "platforms including websites"
-    ],
-    "rates": {
-      "atl": "1.00% of the gross amount payable",
-      "non_atl": "2.00% of the gross amount payable",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "154",
-    "category": "Exports",
-    "title": "Sub-section (1)",
-    "notes": [],
-    "rates": {
-      "atl": "1.00%",
-      "non_atl": "2.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-IV of Part-III of First Schedule read with R.10(c) of Tenth Schedule"
-  },
-  {
-    "section": "154",
-    "category": "Exports",
-    "title": "Sub-sections (3), (3A), (3B), and (3C)",
-    "notes": [],
-    "rates": {
-      "atl": "1.00%",
-      "non_atl": "2.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-IV of Part-III of First Schedule read with R.10(c) of Tenth Schedule"
-  },
-  {
-    "section": "154A",
-    "category": "Export of Services",
-    "title": "Export proceeds for tax years 2024 up to tax year 2026 Computer software or IT services or",
-    "notes": [
-      "IT enabled services by persons",
-      "registered with the Pakistan",
-      "Software Export Board"
-    ],
-    "rates": {
-      "atl": "0.25%",
-      "non_atl": "0.5%",
-      "late_filer": ""
-    },
-    "reference": "Division-IVA of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "154A",
-    "category": "Export of Services",
-    "title": "Any other case",
-    "notes": [],
-    "rates": {
-      "atl": "1.00%",
-      "non_atl": "2.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-IVA of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "155",
-    "category": "Rent of",
-    "title": "Individual and AOP Where the gross amount of rent does not exceed Rs. 300,000",
-    "notes": [
-      "Immovable",
-      "Property"
-    ],
-    "rates": {
-      "atl": "Nil",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-V of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "155",
-    "category": "Rent of",
-    "title": "Individual and AOP Where the gross amount of rent exceeds Rs. 300,000 but does not exceed Rs. 600,000",
-    "notes": [
-      "Individual and AOP Where the gross amount of rent exceeds Rs. 600,000 but does not exceed Rs. 2,000,000 Rs. 15,000 plus",
-      "amount exceeding",
-      "Rs. 600,000"
-    ],
-    "rates": {
-      "atl": "5.00% of the gross amount exceeding Rs. 300,000",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-V of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "155",
-    "category": "Rent of",
-    "title": "Individual and AOP Where the gross amount of rent exceeds Rs. 2,000,000",
-    "notes": [],
-    "rates": {
-      "atl": "Rs. 155,000 plus 25.00% of the gross amount exceeding Rs. 2,000,000",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-V of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "155",
-    "category": "Rent of",
-    "title": "Company",
-    "notes": [],
-    "rates": {
-      "atl": "15.00%",
-      "non_atl": "30.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-V of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "156",
-    "category": "Prizes & Winnings",
-    "title": "",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "156",
-    "category": "Prizes & Winnings",
-    "title": "Raffle, lottery, quiz, prize on sale promotion by a company",
-    "notes": [],
-    "rates": {
-      "atl": "20.00%",
-      "non_atl": "40.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-VI of Part-III of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "156A",
-    "category": "Sale of",
-    "title": "",
-    "notes": [
-      "Petroleum",
-      "Products"
-    ],
-    "rates": {
-      "atl": "12.00%",
-      "non_atl": "24.00%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "231A",
-    "category": "B Advance",
-    "title": "Cash withdrawal by a person whose name is not appearing in the Active Taxpayers’ List - Section 231AB",
-    "notes": [
-      "Tax on Cash",
-      "Withdrawal"
-    ],
-    "rates": {
-      "atl": "0.80%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "231B",
-    "category": "Motor Vehicles",
-    "title": "231B Motor Sub-section 231B(1) & 231B(3) 1 (see endnote) Up to 850 cc",
-    "notes": [
-      "Vehicles"
-    ],
-    "rates": {
-      "atl": "0.50% of the value",
-      "non_atl": "1.50% of the value",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "851",
-    "category": "cc to 1000cc",
-    "title": "Sub-section 231B(1) & 231B(3) 851cc to 1000cc",
-    "notes": [],
-    "rates": {
-      "atl": "1.00% of the value",
-      "non_atl": "3.00% of the value",
-      "late_filer": ""
-    },
-    "reference": "Division-VII of Part-IV of First"
-  },
-  {
-    "section": "100",
-    "category": "1cc to 1300cc",
-    "title": "Sub-section 231B(1) & 231B(3) 1001cc to 1300cc",
-    "notes": [],
-    "rates": {
-      "atl": "1.50% of the value",
-      "non_atl": "4.50% of the value",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "130",
-    "category": "1cc to 1600cc",
-    "title": "Sub-section 231B(1) & 231B(3) 1301cc to 1600cc",
-    "notes": [],
-    "rates": {
-      "atl": "2.00% of the value",
-      "non_atl": "6.00% of the value",
-      "late_filer": ""
-    },
-    "reference": "Division-VII of Part-IV of First"
-  },
-  {
-    "section": "160",
-    "category": "1cc to 1800cc",
-    "title": "Sub-section 231B(1) & 231B(3) 1601cc to 1800cc",
-    "notes": [],
-    "rates": {
-      "atl": "3.00% of the value",
-      "non_atl": "9.00% of the value",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "180",
-    "category": "1cc to 2000cc",
-    "title": "Sub-section 231B(1) & 231B(3) 1801cc to 2000cc",
-    "notes": [],
-    "rates": {
-      "atl": "5.00% of the value",
-      "non_atl": "15.00% of the value",
-      "late_filer": ""
-    },
-    "reference": "Division-VII of Part-IV of First"
-  },
-  {
-    "section": "200",
-    "category": "1cc to 2500cc",
-    "title": "Sub-section 231B(1) & 231B(3) 2001cc to 2500cc",
-    "notes": [],
-    "rates": {
-      "atl": "7.00% of the value",
-      "non_atl": "21.00% of the value",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "250",
-    "category": "1cc to 3000cc",
-    "title": "Sub-section 231B(1) & 231B(3) 2501cc to 3000cc",
-    "notes": [],
-    "rates": {
-      "atl": "9.00% of the value",
-      "non_atl": "27.00% of the value",
-      "late_filer": ""
-    },
-    "reference": "Division-VII of Part-IV of First"
-  },
-  {
-    "section": "250",
-    "category": "1cc to 3000cc",
-    "title": "Sub-section 231B(2) 2 (see endnote) Up to 850 cc",
-    "notes": [],
-    "rates": {
-      "atl": "Nil",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-VII of Part-IV of First"
-  },
-  {
-    "section": "851",
-    "category": "cc to 1000cc",
-    "title": "Sub-section 231B(2) 851cc to 1000cc Rs. 5,000 Rs. 15,000",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "100",
-    "category": "1cc to 1300cc",
-    "title": "Sub-section 231B(2) 1001cc to 1300cc Rs. 7,500 Rs. 22,500",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-VII of Part-IV of First"
-  },
-  {
-    "section": "130",
-    "category": "1cc to 1600cc",
-    "title": "Sub-section 231B(2) 1301cc to 1600cc Rs. 12,500 Rs. 37,500",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "160",
-    "category": "1cc to 1800cc",
-    "title": "Sub-section 231B(2) 1601cc to 1800cc Rs. 18,750 Rs. 56,250",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-VII of Part-IV of First"
-  },
-  {
-    "section": "180",
-    "category": "1cc to 2000cc",
-    "title": "Sub-section 231B(2) 1801cc to 2000cc Rs. 25,000 Rs. 75,000",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "200",
-    "category": "1cc to 2500cc",
-    "title": "Sub-section 231B(2) 2001cc to 2500cc Rs. 37,500 Rs. 112,500",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-VII of Part-IV of First"
-  },
-  {
-    "section": "250",
-    "category": "1cc to 3000cc",
-    "title": "Sub-section 231B(2) 2501cc to 3000cc Rs. 50,000 Rs. 150,000",
-    "notes": [
-      "Sub-section 231B(2) Above 3000cc Rs. 62,500 Rs. 187,500",
-      "Sub-section 231B(2A) 1,001cc to 2,000cc Rs. 200,000 Rs. 600,000",
-      "Sub-section 231B(2A) 2,001cc and above Rs. 400,000 Rs. 1,200,000"
-    ],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-VII of Part-IV of First"
-  },
-  {
-    "section": "231C",
-    "category": "Advance Tax",
-    "title": "Advance tax on foreign domestic workers Rs. 200,000/- Rs. 400,000/- Section 231C",
-    "notes": [
-      "on Foreign",
-      "Domestic",
-      "Workers"
-    ],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "233",
-    "category": "Brokerage and Commission",
-    "title": "233 Brokerage Advertising agents",
-    "notes": [
-      "and Commission"
-    ],
-    "rates": {
-      "atl": "10.00%",
-      "non_atl": "20.00%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "233",
-    "category": "Brokerage and Commission",
-    "title": "Life insurance agents receiving less than Rs. 0.5 million per annum",
-    "notes": [],
-    "rates": {
-      "atl": "8.00%",
-      "non_atl": "16.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-IV of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "233",
-    "category": "Brokerage and Commission",
-    "title": "Persons not covered in (1) and (2) above",
-    "notes": [],
-    "rates": {
-      "atl": "12.00%",
-      "non_atl": "24.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-II of Part-IV of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "234",
-    "category": "Tax on Motor Vehicles",
-    "title": "Goods transport vehicles 3 (see endnote) Rs. 2.50 per kg of laden weight",
-    "notes": [
-      "Vehicles above 8,120 kg of laden weight Rs. 1,200 per annum",
-      "Passenger transport vehicles per seat 4 or more persons but less than 10 persons Rs. 200 Rs. 375",
-      "Passenger transport vehicles per seat 10 or more persons but less than 20 persons Rs. 500 Rs. 750",
-      "Passenger transport vehicles per seat 20 persons or more Rs. 1,000 Rs. 1,500"
-    ],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-IV of First Schedule read with R.10(ha) of Tenth Schedule"
-  },
-  {
-    "section": "100",
-    "category": "1cc-1199cc",
-    "title": "Motor vehicles engine capacity 1001cc-1199cc Rs. 1,500 Rs. 3,000",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-IV of First Schedule read with R.10(ha) of Tenth Schedule"
-  },
-  {
-    "section": "120",
-    "category": "0cc-1299cc",
-    "title": "Motor vehicles engine capacity 1200cc-1299cc Rs. 1,750 Rs. 3,500",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "130",
-    "category": "0cc-1499cc",
-    "title": "Motor vehicles engine capacity 1300cc-1499cc Rs. 2,500 Rs. 5,000",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-IV of First Schedule read with R.10(ha) of Tenth Schedule"
-  },
-  {
-    "section": "150",
-    "category": "0cc-1599cc",
-    "title": "Motor vehicles engine capacity 1500cc-1599cc Rs. 3,750 Rs. 7,500",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "160",
-    "category": "0cc-1999cc",
-    "title": "Motor vehicles engine capacity 1600cc-1999cc Rs. 4,500 Rs. 9,000",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-IV of First Schedule read with R.10(ha) of Tenth Schedule"
-  },
-  {
-    "section": "200",
-    "category": "0cc & above",
-    "title": "Motor vehicles engine capacity 2000cc & above Rs. 10,000 Rs. 20,000",
-    "notes": [
-      "Motor vehicles engine capacity where motor vehicle tax is collected in lump sum Up to 1000cc Rs. 10,000 Rs. 20,000"
-    ],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-IV of First Schedule read with R.10(ha) of Tenth Schedule"
-  },
-  {
-    "section": "100",
-    "category": "1-1199cc",
-    "title": "Motor vehicles engine capacity where motor vehicle tax is collected in lump sum 1001-1199cc Rs. 18,000 Rs. 36,000",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "120",
-    "category": "0-1299cc",
-    "title": "Motor vehicles engine capacity where motor vehicle tax is collected in lump sum 1200-1299cc Rs. 20,000 Rs. 40,000",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-IV of First Schedule read with R.10(ha) of Tenth Schedule"
-  },
-  {
-    "section": "130",
-    "category": "0-1499cc",
-    "title": "Motor vehicles engine capacity where motor vehicle tax is collected in lump sum 1300-1499cc Rs. 30,000 Rs. 60,000",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "150",
-    "category": "0-1599cc",
-    "title": "Motor vehicles engine capacity where motor vehicle tax is collected in lump sum 1500-1599cc Rs. 45,000 Rs. 90,000",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-IV of First Schedule read with R.10(ha) of Tenth Schedule"
-  },
-  {
-    "section": "160",
-    "category": "0-1999cc",
-    "title": "Motor vehicles engine capacity where motor vehicle tax is collected in lump sum 1600-1999cc Rs. 60,000 Rs. 120,000",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "200",
-    "category": "0cc & above",
-    "title": "Motor vehicles engine capacity where motor vehicle tax is collected in lump sum 2000cc & above Rs. 120,000 Rs. 240,000",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-III of Part-IV of First Schedule read with R.10(ha) of Tenth Schedule"
-  },
-  {
-    "section": "235",
-    "category": "Electricity Consumption",
-    "title": "",
-    "notes": [],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "235",
-    "category": "Electricity Consumption",
-    "title": "Sub-section (1): Commercial & industrial consumers Gross amount of bill exceeds Rs. 500 but does not exceed Rs. 20,000",
-    "notes": [],
-    "rates": {
-      "atl": "10.00% of the amount",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-IV of Part-IV of First Schedule read with R.10(i) of Tenth Schedule"
-  },
-  {
-    "section": "235",
-    "category": "Electricity Consumption",
-    "title": "Sub-section (1): Commercial & industrial consumers Gross amount of bill exceeds Rs. 20,000",
-    "notes": [
-      "Sub-section (1): Non-ATL domestic consumers Monthly bill is less than Rs. 25,000 Rs. 0"
-    ],
-    "rates": {
-      "atl": "Rs. 1,950 plus 12.00% of the amount exceeding Rs. 20,000 for commercial & Rs. 1,950 plus 5% of the amount exceeding Rs.20,000 for industrial consumers",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-IV of Part-IV of First Schedule read with R.10(i) of Tenth Schedule"
-  },
-  {
-    "section": "235",
-    "category": "Electricity Consumption",
-    "title": "Sub-section (1): Non-ATL domestic consumers Monthly bill is Rs. 25,000 or more",
-    "notes": [],
-    "rates": {
-      "atl": "7.50%",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-IV of Part-IV of First Schedule read with R.10(i) of Tenth Schedule"
-  },
-  {
-    "section": "236",
-    "category": "Telephone and Internet",
-    "title": "In the case of a telephone subscriber (other than",
-    "notes": [
-      "mobile phone subscriber) where the amount of amount of bill",
-      "monthly bill exceeds Rs. 1,000 exceeding Rs 1,000"
-    ],
-    "rates": {
-      "atl": "10.00% of the",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-V Part-IV of First Schedule read with R.10(l) of Tenth Schedule"
-  },
-  {
-    "section": "236",
-    "category": "Telephone and Internet",
-    "title": "In the case of subscribers of internet, mobile telephone and pre-paid internet or telephone card Amount of bill or sale price of prepaid internet or telephone card or sale of units through any electronic medium or whatever form",
-    "notes": [],
-    "rates": {
-      "atl": "15.00% of the amount of bill or sales price",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-V Part-IV of First Schedule read with R.10(l) of Tenth Schedule"
-  },
-  {
-    "section": "236A",
-    "category": "Sale by Public Auction",
-    "title": "Any property or good other than immovable property",
-    "notes": [],
-    "rates": {
-      "atl": "10.00% of gross sale price",
-      "non_atl": "20.00% of gross sale price",
-      "late_filer": ""
-    },
-    "reference": "Division-VIII of Part-IV of First"
-  },
-  {
-    "section": "236A",
-    "category": "Sale by Public Auction",
-    "title": "In case of immovable property sold by auction and sale by auction of train management services by Pakistan Railways",
-    "notes": [],
-    "rates": {
-      "atl": "5.00% of gross sale price",
-      "non_atl": "10.00% of gross sale price",
-      "late_filer": ""
-    },
-    "reference": "Division-VIII of Part-IV of First"
-  },
-  {
-    "section": "236C",
-    "category": "Transfer of",
-    "title": "Where the gross amount of consideration received does not exceed Rs. 50 million",
-    "notes": [
-      "Immovable read with R.1 and R.1A of Tenth",
-      "Property"
-    ],
-    "rates": {
-      "atl": "4.50%",
-      "non_atl": "11.50%",
-      "late_filer": "7.50%"
-    },
-    "reference": "Division-X of Part-IV of First Schedule"
-  },
-  {
-    "section": "236C",
-    "category": "Transfer of",
-    "title": "Where the gross amount of consideration received exceeds Rs. 100 million",
-    "notes": [
-      "read with R.1 and R.1A of Tenth"
-    ],
-    "rates": {
-      "atl": "5.50%",
-      "non_atl": "11.50%",
-      "late_filer": "9.50%"
-    },
-    "reference": "Division-X of Part-IV of First Schedule"
-  },
-  {
-    "section": "236C",
-    "category": "A Advance Tax on Foreign TV Serials & Advertisements",
-    "title": "Foreign produced TV drama serial or play Rs. 1,000,000 per episode",
-    "notes": [
-      "Foreign produced TV play single episode Rs. 3,000,000",
-      "Advertisement starring foreign actor Rs. 100,000 per second"
-    ],
-    "rates": {
-      "atl": "",
-      "non_atl": "",
-      "late_filer": ""
-    },
-    "reference": "Division-XA of Part-IV of First Schedule"
-  },
-  {
-    "section": "236C",
-    "category": "B Advance",
-    "title": "Total amount of bill from a person arranging or holding a function",
-    "notes": [
-      "Tax on Functions",
-      "& Gatherings"
-    ],
-    "rates": {
-      "atl": "10.00%",
-      "non_atl": "20.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-Xl of Part-IV of First Schedule read with R.1 of Tenth Schedule"
-  },
-  {
-    "section": "236G",
-    "category": "Sales to Distributor, Dealer & Wholesaler",
-    "title": "236G Sales to Fertilizers",
-    "notes": [
-      "Distributor,",
-      "Dealer &"
-    ],
-    "rates": {
-      "atl": "0.25%",
-      "non_atl": "0.70%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "236G",
-    "category": "Sales to Distributor, Dealer & Wholesaler",
-    "title": "Wholesaler Other than fertilizers",
-    "notes": [],
-    "rates": {
-      "atl": "0.10%",
-      "non_atl": "2.00%",
-      "late_filer": ""
-    },
-    "reference": "Division-XIV of Part-IV of First"
-  },
-  {
-    "section": "236H",
-    "category": "Sales to Retailers",
-    "title": "",
-    "notes": [],
-    "rates": {
-      "atl": "0.50%",
-      "non_atl": "2.50%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "236K",
-    "category": "Purchase of",
-    "title": "Where the fair market value does not exceed Rs. 50 million",
-    "notes": [
-      "Immovable",
-      "Property"
-    ],
-    "rates": {
-      "atl": "1.50%",
-      "non_atl": "10.50%",
-      "late_filer": "4.50%"
-    },
-    "reference": "Division-XVIII of Part-IV of First"
-  },
-  {
-    "section": "236K",
-    "category": "Purchase of",
-    "title": "Where the fair market value exceeds Rs. 50 million but does not exceed Rs 100 million",
-    "notes": [],
-    "rates": {
-      "atl": "2.00%",
-      "non_atl": "14.50%",
-      "late_filer": "5.50%"
-    },
-    "reference": "Division-XVIII of Part-IV of First"
-  },
-  {
-    "section": "236K",
-    "category": "Purchase of",
-    "title": "Where the fair market value exceeds Rs. 100 million",
-    "notes": [],
-    "rates": {
-      "atl": "2.50%",
-      "non_atl": "18.50%",
-      "late_filer": "6.50%"
-    },
-    "reference": "Division-XVIII of Part-IV of First"
-  },
-  {
-    "section": "236Y",
-    "category": "Amount Remitted Abroad",
-    "title": "Amount remitted abroad through credit, debit or prepaid cards",
-    "notes": [],
-    "rates": {
-      "atl": "5.00%",
-      "non_atl": "10.00%",
-      "late_filer": ""
-    },
-    "reference": ""
-  },
-  {
-    "section": "236Z",
-    "category": "Bonus",
-    "title": "Bonus shares issued by companies",
-    "notes": [
-      "Shares Issued by",
-      "Companies"
-    ],
-    "rates": {
-      "atl": "10.00%",
-      "non_atl": "20.00%",
-      "late_filer": ""
-    },
-    "reference": "Section 236Z read with R.1, Tenth Schedule"
-  }
+{
+"section": "147A",
+"category": "Advance Tax",
+"title": "Advance Tax from Provincial Sales Tax Registered Person",
+"notes": [
+"Every provincial sales tax registered person shall pay adjustable advance tax at 3% of the turnover declared before the provincial revenue authority.",
+"Does not apply to persons appearing in the active taxpayers' list on 30th June of the previous tax year."
+],
+"rates": {
+"atl": "0.00%",
+"non_atl": "3.00%",
+"late_filer": ""
+},
+"reference": "Section 147A"
+},
+{
+"section": "148",
+"category": "Imports",
+"title": "Advance Tax on Imports",
+"notes": [
+"Part I of 12th Schedule: 1%.",
+"Part II of 12th Schedule: 2% (3.5% for commercial importers).",
+"Part III of 12th Schedule: 5.5% (6% for commercial importers).",
+"Finished pharmaceutical products not manufactured in Pakistan: 4%.",
+"CKD kits of electric vehicles for small cars/SUVs (50 kwh battery or below) and LCVs (150 kwh battery or below): 1%.",
+"Mobile phones (CBU/CKD/SKD): Varies from Rs. 70 to Rs. 11,500 based on C&F value.",
+"White Sugar (commercial import) for specified period: 0.25% (as per Second Schedule)."
+],
+"rates": {
+"atl": "1.00% - 6.00% (Varies by Sched/Item)",
+"non_atl": "Double (except where explicitly excluded)",
+"late_filer": ""
+},
+"reference": "Section 148, Part-II of First Schedule, 12th Schedule & Second Schedule"
+},
+{
+"section": "149(1)",
+"category": "Salary",
+"title": "Tax on Salary",
+"notes": [
+"Deducted at the average rate of tax computed at the slab rates specified in Division I of Part I of the First Schedule.",
+"Tenth Schedule (100% increase for non-ATL) does not apply to regular salary."
+],
+"rates": {
+"atl": "Slab Rates",
+"non_atl": "Slab Rates",
+"late_filer": "Slab Rates"
+},
+"reference": "Section 149(1), Div I, Part I of First Schedule"
+},
+{
+"section": "149(1A)",
+"category": "Salary / Pension",
+"title": "Tax on Pension",
+"notes": [
+"Any person responsible for paying pension to a former employee (below age 70) deriving pension exceeding Rs. 10 million in a tax year, shall deduct tax at 5% on the amount over and above Rs. 10 million."
+],
+"rates": {
+"atl": "5.00% (on amount > 10m)",
+"non_atl": "5.00% (on amount > 10m)",
+"late_filer": ""
+},
+"reference": "Section 149(1A), Div I, Part I of First Schedule"
+},
+{
+"section": "149(3)",
+"category": "Salary / Remuneration",
+"title": "Directorship Fee or Board Meeting Fee",
+"notes": [
+"Tax deducted on gross amount payable for attending board meetings or directorship fee."
+],
+"rates": {
+"atl": "20.00%",
+"non_atl": "20.00%",
+"late_filer": ""
+},
+"reference": "Section 149(3)"
+},
+{
+"section": "150",
+"category": "Dividends",
+"title": "Tax on Dividends",
+"notes": [
+"Independent Power Producers (pass-through items): 7.5%.",
+"Mutual funds deriving 50%+ income from profit on debt: 25%.",
+"Other standard cases (including normal mutual funds and REITs): 15%.",
+"Dividend received by REIT Scheme from Special Purpose Vehicle (SPV): 0%.",
+"Dividend received by others from SPV (under REIT regulations): 35%.",
+"Dividend from a company where no tax is payable due to exemption/loss offset/tax credits: 25%.",
+"Second Schedule exemptions for inter-corporate dividends within group companies (Sec 59AA) applies."
+],
+"rates": {
+"atl": "0.00% - 35.00%",
+"non_atl": "0.00% - 70.00%",
+"late_filer": ""
+},
+"reference": "Section 150, Div I, Part III of First Schedule"
+},
+{
+"section": "151",
+"category": "Profit on Debt",
+"title": "Yield or Profit on Debt",
+"notes": [
+"Yield paid by banking company or financial institution: 20%.",
+"Govt securities paid to any person other than an individual: 20%.",
+"Other cases: 15%.",
+"Second Schedule (Clause 5AB): 10% for non-resident individual holding POC/NICOP/CNIC investing through Foreign Currency Value Account (FCVA)."
+],
+"rates": {
+"atl": "15.00% - 20.00%",
+"non_atl": "30.00% - 40.00%",
+"late_filer": ""
+},
+"reference": "Section 151, Div IA, Part III of First Schedule"
+},
+{
+"section": "151A",
+"category": "Capital Gains",
+"title": "Gain on Disposal of Debt Securities",
+"notes": [
+"Deducted by custodian of debt securities (including IPS account) on the gross amount of capital gain.",
+"Does not apply on disposal through registered stock exchange settled through NCCPL."
+],
+"rates": {
+"atl": "15.00%",
+"non_atl": "30.00%",
+"late_filer": ""
+},
+"reference": "Section 151A, Div IIIAA, Part III of First Schedule"
+},
+{
+"section": "152(1/2)",
+"category": "Payments to Non-Residents",
+"title": "Royalty, Tech Services, General Payments",
+"notes": [
+"Royalty / Fee for technical services: 15%.",
+"Fee for offshore digital services: 10%.",
+"Execution of construction/assembly contracts (152(1A)): 7%.",
+"Insurance/re-insurance premium (152(1AA)): 5%.",
+"Advertisement services to non-resident media (152(1AAA)): 10%.",
+"Foreign produced commercial (152(1BA)): 20%.",
+"Capital gain on debt instruments/Govt securities via SCRA/FCVA (152(1D/1DA)): 10%.",
+"Payment to global money transfer operators/card networks/payment gateways (152(1DC/1DD)): 10%.",
+"General payments to non-residents (152(2)): 20%."
+],
+"rates": {
+"atl": "5.00% - 20.00%",
+"non_atl": "5.00% - 40.00%",
+"late_filer": ""
+},
+"reference": "Section 152, Div II, Part III of First Schedule"
+},
+{
+"section": "152(2A)",
+"category": "Payments to Non-Residents",
+"title": "Payments to Permanent Establishment (PE) of Non-Resident",
+"notes": [
+"Sale of goods by Company: 5%.",
+"Sale of goods by Others: 5.5%.",
+"Services (Transport, hotel, IT services, courier, security, software, engineering, telecom, car rental, etc.): 4%.",
+"Other services (Company): 9%.",
+"Other services (Others): 11%.",
+"Contracts (Sportspersons): 15%.",
+"Contracts (Company): 6.5%."
+],
+"rates": {
+"atl": "4.00% - 15.00%",
+"non_atl": "Double",
+"late_filer": ""
+},
+"reference": "Section 152(2A)"
+},
+{
+"section": "153(1)(a)",
+"category": "Sale of Goods",
+"title": "Payment for Sale of Goods",
+"notes": [
+"Rice, cotton seed, edible oils: 1.5%.",
+"Toll manufacturing: 9% (Company), 11% (Others).",
+"Other goods: 5% (Company), 5.5% (Others).",
+"FMCG, fertilizer, electronics, sugar, cement, steel, edible oil distributors/dealers/wholesalers/retailers (Second Sched 24C): 0.25% if on ATL.",
+"Cigarette distributors (Second Sched 24A): 2.5%.",
+"Pharma distributors (Second Sched 24A): 1%.",
+"Gold and silver and articles thereof (Second Sched 31): 1%."
+],
+"rates": {
+"atl": "0.25% - 11.00%",
+"non_atl": "0.50% - 22.00%",
+"late_filer": ""
+},
+"reference": "Section 153(1)(a), Div III, Part III of First Schedule & Second Schedule"
+},
+{
+"section": "153(1)(b)",
+"category": "Services",
+"title": "Payment for Services",
+"notes": [
+"Transport, freight, courier, manpower, hotel, security, tracking, advertising (non-media), car rental, building maintenance, PMEX/PSX services: 6%.",
+"IT services & IT enabled services: 4%.",
+"Electronic/print media advertising: 1.5%.",
+"Other services: 9% (Company), 11% (Others).",
+"Oil tanker contractors (Second Sched 43D): 2.5%.",
+"Goods transport contractors (Second Sched 43E): 3.5%.",
+"National Logistics Corp (Second Sched 24CB): 3%."
+],
+"rates": {
+"atl": "1.50% - 11.00%",
+"non_atl": "3.00% - 22.00%",
+"late_filer": ""
+},
+"reference": "Section 153(1)(b), Div III, Part III of First Schedule & Second Schedule"
+},
+{
+"section": "153(1)(c)",
+"category": "Contracts",
+"title": "Execution of Contracts",
+"notes": [
+"Sportspersons: 15%.",
+"Company: 6.5%.",
+"Others: 8%."
+],
+"rates": {
+"atl": "6.50% - 15.00%",
+"non_atl": "13.00% - 30.00%",
+"late_filer": ""
+},
+"reference": "Section 153(1)(c), Div III, Part III of First Schedule"
+},
+{
+"section": "153(2)",
+"category": "Exporters",
+"title": "Payments by Exporters / Export Houses",
+"notes": [
+"Services of stitching, dying, printing, embroidery, washing, sizing, weaving to an exporter/export house.",
+"Rate is 1%."
+],
+"rates": {
+"atl": "1.00%",
+"non_atl": "2.00%",
+"late_filer": ""
+},
+"reference": "Section 153(2), Div IV, Part III of First Schedule"
+},
+{
+"section": "153(2A)",
+"category": "E-Commerce",
+"title": "Digital Transactions in E-commerce",
+"notes": [
+"Payment intermediary for digital means or banking channels: 1%.",
+"Courier service for Cash on Delivery (CoD): 2%."
+],
+"rates": {
+"atl": "1.00% - 2.00%",
+"non_atl": "2.00% - 4.00%",
+"late_filer": ""
+},
+"reference": "Section 153(2A), Div III, Part III of First Schedule"
+},
+{
+"section": "154",
+"category": "Exports",
+"title": "Export of Goods",
+"notes": [
+"Proceeds of export of goods: 1%.",
+"Tenth Schedule does not apply to 154."
+],
+"rates": {
+"atl": "1.00%",
+"non_atl": "1.00%",
+"late_filer": ""
+},
+"reference": "Section 154, Div IV, Part III of First Schedule"
+},
+{
+"section": "154A",
+"category": "Exports",
+"title": "Export of Services",
+"notes": [
+"IT services/software (registered with PSEB): 0.25% (for tax years 2024 up to 2026).",
+"Other services/contracts outside Pakistan: 1%.",
+"Tenth Schedule does not apply to 154A."
+],
+"rates": {
+"atl": "0.25% - 1.00%",
+"non_atl": "0.25% - 1.00%",
+"late_filer": ""
+},
+"reference": "Section 154A, Div IVA, Part III of First Schedule"
+},
+{
+"section": "155",
+"category": "Property",
+"title": "Rent of Immovable Property",
+"notes": [
+"Company: 15%.",
+"Individuals/AOPs: 0% up to Rs 300,000; Slab rates apply above Rs 300,000 ranging from 5% to 25% plus fixed amounts."
+],
+"rates": {
+"atl": "5.00% - 25.00% (Slabs) / 15.00% (Co)",
+"non_atl": "10.00% - 50.00% / 30.00%",
+"late_filer": ""
+},
+"reference": "Section 155, Div V, Part III of First Schedule"
+},
+{
+"section": "156",
+"category": "Prizes",
+"title": "Prizes and Winnings",
+"notes": [
+"Prize bonds or crossword puzzle: 15%.",
+"Raffle, lottery, quiz, promotional prizes: 20%."
+],
+"rates": {
+"atl": "15.00% - 20.00%",
+"non_atl": "30.00% - 40.00%",
+"late_filer": ""
+},
+"reference": "Section 156, Div VI, Part III of First Schedule"
+},
+{
+"section": "156A",
+"category": "Petroleum",
+"title": "Sale of Petroleum Products",
+"notes": [
+"Collected on the amount of commission or discount allowed to petrol pump operators: 12%."
+],
+"rates": {
+"atl": "12.00%",
+"non_atl": "24.00%",
+"late_filer": ""
+},
+"reference": "Section 156A, Div VIA, Part III of First Schedule"
+},
+{
+"section": "231AB",
+"category": "Banking",
+"title": "Advance Tax on Cash Withdrawal",
+"notes": [
+"Applicable only to persons NOT appearing in the active taxpayers' list on aggregate daily withdrawals exceeding Rs. 50,000.",
+"Rate is 0.8% of the cash withdrawal."
+],
+"rates": {
+"atl": "0.00%",
+"non_atl": "0.80%",
+"late_filer": ""
+},
+"reference": "Section 231AB"
+},
+{
+"section": "231B",
+"category": "Motor Vehicles",
+"title": "Purchase, Registration and Transfer of Motor Vehicles",
+"notes": [
+"Purchase/Registration/Transfer: Varies by engine capacity (0.5% to 12% of value for >1000cc). Fixed amounts for lower CCs.",
+"Lease to non-ATL: 4% of the value of the motor vehicle.",
+"Non-ATL rate is increased by 200% (i.e., effectively 3 times the ATL rate)."
+],
+"rates": {
+"atl": "Varies by CC / Value",
+"non_atl": "Varies by CC / Value (x3)",
+"late_filer": ""
+},
+"reference": "Section 231B, Div VII, Part IV of First Schedule & Tenth Schedule"
+},
+{
+"section": "231C",
+"category": "Services",
+"title": "Advance tax on foreign domestic workers",
+"notes": [
+"Collected by authority issuing/renewing domestic aide visa to foreign national."
+],
+"rates": {
+"atl": "Rs. 200,000",
+"non_atl": "Rs. 400,000",
+"late_filer": ""
+},
+"reference": "Section 231C"
+},
+{
+"section": "233",
+"category": "Brokerage / Commission",
+"title": "Brokerage and Commission",
+"notes": [
+"Advertising Agents: 10%.",
+"Life Insurance Agents (<0.5m/annum): 8%.",
+"Persons not covered above: 12%.",
+"National Logistics Corp toll lease: 3% (Second Schedule 24CB)."
+],
+"rates": {
+"atl": "8.00% - 12.00%",
+"non_atl": "16.00% - 24.00%",
+"late_filer": ""
+},
+"reference": "Section 233, Div II, Part IV of First Schedule & Second Schedule"
+},
+{
+"section": "234",
+"category": "Motor Vehicles",
+"title": "Tax on Motor Vehicles (Annual)",
+"notes": [
+"Goods transport: Rs 2.5 per kg.",
+"Passenger transport: Rs 200 - 1500 per seat based on capacity and AC/Non-AC.",
+"Private vehicles: Fixed rates varying by CC (Rs 800 to Rs 10,000 annually or Rs 10,000 to Rs 120,000 lump sum)."
+],
+"rates": {
+"atl": "Varies by CC / Weight / Seat",
+"non_atl": "Doubled",
+"late_filer": ""
+},
+"reference": "Section 234, Div III, Part IV of First Schedule"
+},
+{
+"section": "235",
+"category": "Utilities",
+"title": "Electricity Consumption",
+"notes": [
+"Commercial: 10% up to 20k, Rs 1950 + 12% above 20k.",
+"Industrial: 10% up to 20k, Rs 1950 + 5% above 20k.",
+"Domestic: 0% below 25k, 7.5% for 25k or more (does not apply if on ATL)."
+],
+"rates": {
+"atl": "5.00% - 12.00%",
+"non_atl": "7.50% - 24.00%",
+"late_filer": ""
+},
+"reference": "Section 235, Div IV, Part IV of First Schedule"
+},
+{
+"section": "236",
+"category": "Utilities",
+"title": "Telephone and Internet Users",
+"notes": [
+"Telephone (Landline > Rs 1000): 10%.",
+"Mobile/Internet prepaid cards or bill: 15%."
+],
+"rates": {
+"atl": "10.00% - 15.00%",
+"non_atl": "20.00% - 30.00%",
+"late_filer": ""
+},
+"reference": "Section 236, Div V, Part IV of First Schedule"
+},
+{
+"section": "236A",
+"category": "Sales",
+"title": "Advance tax at the time of sale by auction",
+"notes": [
+"General auction: 10%.",
+"Immovable property & train management services auction by Pak Railways: 5%.",
+"National Logistics Corp toll lease: 3% (Second Schedule 24CB)."
+],
+"rates": {
+"atl": "3.00% - 10.00%",
+"non_atl": "6.00% - 20.00%",
+"late_filer": ""
+},
+"reference": "Section 236A, Div VIII, Part IV of First Schedule & Second Schedule"
+},
+{
+"section": "236C",
+"category": "Immovable Property",
+"title": "Advance Tax on Sale/Transfer of Immovable Property",
+"notes": [
+"Up to Rs 50m: 4.5%.",
+"Rs 50m to Rs 100m: 5%.",
+"Above Rs 100m: 5.5%.",
+"Tenth Schedule Specific Non-ATL fixed rate: 11.5%.",
+"Tenth Schedule Late Filer specific rates: Up to Rs 50m: 7.5%, Rs 50m-100m: 8.5%, Above 100m: 9.5%."
+],
+"rates": {
+"atl": "4.50% - 5.50%",
+"non_atl": "11.50%",
+"late_filer": "7.50% - 9.50%"
+},
+"reference": "Section 236C, Div X, Part IV of First Sched & Tenth Schedule"
+},
+{
+"section": "236CA",
+"category": "Entertainment / Ads",
+"title": "Advance Tax on TV Plays and Advertisements",
+"notes": [
+"Foreign drama serial: Rs 1,000,000 per episode.",
+"Foreign single play: Rs 3,000,000.",
+"Ad starring foreign actor: Rs 100,000 per second."
+],
+"rates": {
+"atl": "Fixed Amounts",
+"non_atl": "Fixed Amounts (Doubled)",
+"late_filer": ""
+},
+"reference": "Section 236CA, Div XA, Part IV of First Schedule"
+},
+{
+"section": "236CB",
+"category": "Services",
+"title": "Advance Tax on Functions and Gatherings",
+"notes": [
+"Collected from person arranging functions in marriage halls, hotels, marquees, clubs, etc..",
+"Rate is 10% on the total amount of the bill."
+],
+"rates": {
+"atl": "10.00%",
+"non_atl": "20.00%",
+"late_filer": ""
+},
+"reference": "Section 236CB, Div XI, Part IV of First Schedule"
+},
+{
+"section": "236G",
+"category": "Sales",
+"title": "Advance tax on sales to distributors, dealers or wholesalers",
+"notes": [
+"Fertilizer: 0.7% (0.25% if on ATL of ST & IT).",
+"Other items: 0.1%.",
+"Fixed at 2% for non-ATL for other than fertilizer (as per Tenth Sched)."
+],
+"rates": {
+"atl": "0.10% - 0.70%",
+"non_atl": "1.40% - 2.00%",
+"late_filer": ""
+},
+"reference": "Section 236G, Div XIV, Part IV of First Sched & Tenth Schedule"
+},
+{
+"section": "236H",
+"category": "Sales",
+"title": "Advance tax on sales to retailers",
+"notes": [
+"All covered sectors: 0.5%.",
+"Fixed at 2.5% for non-ATL (as per Tenth Sched)."
+],
+"rates": {
+"atl": "0.50%",
+"non_atl": "2.50%",
+"late_filer": ""
+},
+"reference": "Section 236H, Div XV, Part IV of First Sched & Tenth Schedule"
+},
+{
+"section": "236K",
+"category": "Immovable Property",
+"title": "Advance Tax on Purchase or Transfer of Immovable Property",
+"notes": [
+"Up to Rs 50m: 3%.",
+"Rs 50m to 100m: 3.5%.",
+"Above Rs 100m: 4%.",
+"Tenth Schedule Specific Non-ATL rates: Up to Rs 50m: 10.5%, Rs 50m-100m: 14.5%, Above Rs 100m: 18.5%.",
+"Tenth Schedule Late Filer rates: Up to Rs 50m: 4.5%, Rs 50m-100m: 5.5%, Above 100m: 6.5%."
+],
+"rates": {
+"atl": "3.00% - 4.00%",
+"non_atl": "10.50% - 18.50%",
+"late_filer": "4.50% - 6.50%"
+},
+"reference": "Section 236K, Div XVIII, Part IV of First Sched & Tenth Schedule"
+},
+{
+"section": "236Y",
+"category": "Banking",
+"title": "Advance tax on persons remitting amounts abroad through credit or debit or prepaid cards",
+"notes": [
+"Collected at the time of transfer of any sum remitted outside Pakistan via cards.",
+"Rate is 5%."
+],
+"rates": {
+"atl": "5.00%",
+"non_atl": "10.00%",
+"late_filer": ""
+},
+"reference": "Section 236Y, Div XXVII, Part IV of First Schedule"
+},
+{
+"section": "236Z",
+"category": "Shares",
+"title": "Bonus shares issued by companies",
+"notes": [
+"Company to withhold 10% of bonus shares and collect tax equal to 10% of their value."
+],
+"rates": {
+"atl": "10.00%",
+"non_atl": "20.00%",
+"late_filer": ""
+},
+"reference": "Section 236Z"
+}
 ]
