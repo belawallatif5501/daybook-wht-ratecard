@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Withholding Tax Rate Card — Daybook</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="wrap">
+      <div class="brand">
+        <div class="logo">DB</div>
+        <div>
+          <div class="title">Withholding Tax Rate Card</div>
+          <div class="subtitle">Search sections & rates (ATL / Non-ATL / Late Filer)</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls">
+      <input id="q" class="input" type="search" placeholder="Search: section, keyword (e.g., 153, salary, rent, e-commerce)" />
+
+      <div class="row">
+        <select id="section" class="select">
+          <option value="">All Sections</option>
+        </select>
+
+        <select id="category" class="select">
+          <option value="">All Categories</option>
+        </select>
+      </div>
+
+      <div class="toggle">
+        <button class="pill active" data-rate="atl">ATL</button>
+        <button class="pill" data-rate="non_atl">Non-ATL</button>
+        <button class="pill" data-rate="late_filer">Late Filer</button>
+      </div>
+
+      <div class="meta">
+        <span id="count">0</span> results
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="tableWrap">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Section</th>
+              <th>Title</th>
+              <th class="right">Rate</th>
+            </tr>
+          </thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+      <div class="hint">Tap a row to view conditions & reference.</div>
+    </section>
+
+    <section id="drawer" class="drawer hidden" aria-hidden="true">
+      <div class="drawerInner">
+        <div class="drawerHead">
+          <div>
+            <div id="dSection" class="dSection"></div>
+            <div id="dTitle" class="dTitle"></div>
+          </div>
+          <button id="close" class="close">✕</button>
+        </div>
+
+        <div class="drawerBody">
+          <div class="block">
+            <div class="label">Selected rate</div>
+            <div id="dRate" class="value"></div>
+          </div>
+
+          <div class="block">
+            <div class="label">Conditions / Notes</div>
+            <ul id="dNotes" class="list"></ul>
+          </div>
+
+          <div class="block">
+            <div class="label">Reference</div>
+            <div id="dRef" class="value muted"></div>
+          </div>
+        </div>
+      </div>
+      <div class="backdrop" id="backdrop"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <div class="footText">Daybook Pvt Ltd — WHT Rate Card</div>
+    </div>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
