@@ -18,6 +18,21 @@
     "reference": "Part-II of First Schedule, 12th Schedule, Second Schedule & Tenth Schedule"
   },
   {
+    "section": "149(1)",
+    "category": "Salary",
+    "title": "Tax on Salary",
+    "notes": [
+      "Deducted at the average rate of tax computed at the slab rates specified in Division I of Part I of the First Schedule.",
+      "Tenth Schedule (100% increase for non-ATL) does not apply to regular salary."
+    ],
+    "rates": {
+      "atl": "Slab Rates",
+      "non_atl": "Slab Rates",
+      "late_filer": ""
+    },
+    "reference": "Section 149(1), Div I, Part I of First Schedule & Tenth Schedule Rule 10(a)"
+  },
+  {
     "section": "149(3)",
     "category": "Salary / Remuneration",
     "title": "Directorship Fee or Board Meeting Fee",
@@ -26,24 +41,25 @@
     ],
     "rates": {
       "atl": "20.00%",
-      "non_atl": "40.00%",
+      "non_atl": "20.00%",
       "late_filer": ""
     },
-    "reference": "Section 149(3) & Tenth Schedule"
+    "reference": "Section 149(3) & Tenth Schedule Rule 10(a)"
   },
   {
     "section": "150",
     "category": "Dividends",
     "title": "Tax on Dividends",
     "notes": [
-      "Independent Power Producers: 7.5%",
-      "Mutual funds, REITs, and others: 15%",
       "Mutual funds deriving 50%+ income from profit on debt: 25%",
-      "Dividend received by a company from exempt company: 25%"
+      "Dividend received by a company from exempt company: 25%",
+      "Dividend received by REIT Scheme from Special Purpose Vehicle (SPV): 0%",
+      "Dividend received by others from SPV: 35%",
+      "Other standard cases (including normal mutual funds and REITs): 15%"
     ],
     "rates": {
-      "atl": "7.50% - 25.00%",
-      "non_atl": "15.00% - 50.00%",
+      "atl": "0.00% - 35.00%",
+      "non_atl": "0.00% - 70.00%",
       "late_filer": ""
     },
     "reference": "Div I, Part III of First Schedule & Tenth Schedule"
@@ -85,10 +101,12 @@
     "notes": [
       "Royalty / Fee for technical services: 15%",
       "Fee for offshore digital services: 10%",
-      "Execution of contracts (152(1A)): 7%",
+      "Execution of construction/assembly contracts (152(1A)): 6%",
       "Insurance/re-insurance premium (152(1AA)): 5%",
       "Foreign produced commercial (152(1BA)): 20%",
-      "Capital gain on debt instruments via SCRA (152(1D)): 10%"
+      "Capital gain on debt instruments via SCRA (152(1D)): 10%",
+      "General payments to non-residents (152(2)): 20%",
+      "Most non-resident payments are exempt from Tenth Schedule 100% penalty unless explicitly included."
     ],
     "rates": {
       "atl": "5.00% - 20.00%",
@@ -105,8 +123,9 @@
       "Rice, cotton seed oil, edible oils: 1.5%",
       "Toll manufacturing: 9% (Company), 11% (Others)",
       "Other goods: 5% (Company), 5.5% (Others)",
-      "FMCG, fertilizer, electronics, sugar, cement, steel, edible oil distributors/dealers (ATL only): 0.25%",
-      "Cigarette distributors: 2.5%, Pharma distributors: 1%"
+      "FMCG, fertilizer, electronics, sugar, cement, steel, edible oil distributors/dealers (ATL only via 2nd Sched): 0.25%",
+      "Cigarette distributors (2nd Sched): 2.5%",
+      "Pharma distributors, Gold/Silver trade, Export sectors (2nd Sched): 1%"
     ],
     "rates": {
       "atl": "0.25% - 11.00%",
@@ -120,7 +139,7 @@
     "category": "Services",
     "title": "Payment for Services",
     "notes": [
-      "Transport, freight, hotel, software, IT, tracking, etc.: 6%",
+      "Transport, freight, courier, manpower, hotel, security, tracking, advertising (non-media), car rental, building maintenance, PMEX/PSX services: 3%",
       "IT services & IT enabled services: 4%",
       "Electronic/print media advertising: 1.5%",
       "Oil tanker contractors: 2% (Second Schedule)",
@@ -151,6 +170,20 @@
     "reference": "Div III, Part III of First Schedule"
   },
   {
+    "section": "153(2)",
+    "category": "Exporters",
+    "title": "Payments by Exporters / Export Houses",
+    "notes": [
+      "Services of stitching, dying, printing, embroidery, washing, sizing, weaving."
+    ],
+    "rates": {
+      "atl": "1.00%",
+      "non_atl": "2.00%",
+      "late_filer": ""
+    },
+    "reference": "Div IV, Part III of First Schedule"
+  },
+  {
     "section": "153(2A)",
     "category": "E-Commerce",
     "title": "Digital Transactions in E-commerce",
@@ -170,14 +203,15 @@
     "category": "Exports",
     "title": "Export of Goods",
     "notes": [
-      "Proceeds of export of goods: 1%"
+      "Proceeds of export of goods: 1%",
+      "Tenth Schedule does not apply to 154."
     ],
     "rates": {
       "atl": "1.00%",
       "non_atl": "1.00%",
       "late_filer": ""
     },
-    "reference": "Div IV, Part III of First Schedule"
+    "reference": "Div IV, Part III of First Schedule & Tenth Schedule Rule 10(c)"
   },
   {
     "section": "154A",
@@ -185,14 +219,15 @@
     "title": "Export of Services",
     "notes": [
       "IT services/software (registered with PSEB): 0.25%",
-      "Other services/contracts outside Pakistan: 1%"
+      "Other services/contracts outside Pakistan: 1%",
+      "Tenth Schedule does not apply to 154A."
     ],
     "rates": {
       "atl": "0.25% - 1.00%",
       "non_atl": "0.25% - 1.00%",
       "late_filer": ""
     },
-    "reference": "Div IVA, Part III of First Schedule"
+    "reference": "Div IVA, Part III of First Schedule & Tenth Schedule Rule 10(ca)"
   },
   {
     "section": "155",
@@ -257,14 +292,14 @@
     "category": "Motor Vehicles",
     "title": "Purchase, Registration and Transfer of Motor Vehicles",
     "notes": [
-      "Purchase/Registration: 0.5% (up to 850cc) to 12% (>3000cc) of value.",
-      "Transfer: Fixed amount based on engine capacity.",
+      "Purchase/Registration: Value/Engine capacity based (up to Rs. 120,000 for non-percentage capacity; higher CCs 6% to 10% of value).",
+      "Transfer: Fixed amounts varying by engine capacity.",
       "Lease to non-ATL: 4%",
-      "Non-ATL rate is increased by 200% (i.e. effectively 3 times the ATL rate) for registration/purchase."
+      "Non-ATL rate is increased by 200% (i.e., effectively 3 times the ATL rate)."
     ],
     "rates": {
-      "atl": "0.50% - 12.00%",
-      "non_atl": "1.50% - 36.00%",
+      "atl": "Varies by CC / Value",
+      "non_atl": "Varies by CC / Value (x3)",
       "late_filer": ""
     },
     "reference": "Div VII, Part IV of First Schedule & Tenth Schedule"
@@ -326,7 +361,7 @@
     ],
     "rates": {
       "atl": "5.00% - 12.00%",
-      "non_atl": "10.00% - 24.00%",
+      "non_atl": "7.50% - 24.00%",
       "late_filer": ""
     },
     "reference": "Div IV, Part IV of First Schedule"
@@ -352,14 +387,15 @@
     "title": "Sale by Auction",
     "notes": [
       "General auction: 10%",
-      "Immovable property & train management services auction: 5%"
+      "Immovable property & train management services auction: 5%",
+      "National Logistics Corp toll lease (Second Schedule): 3%"
     ],
     "rates": {
-      "atl": "5.00% - 10.00%",
-      "non_atl": "10.00% - 20.00%",
+      "atl": "3.00% - 10.00%",
+      "non_atl": "6.00% - 20.00%",
       "late_filer": ""
     },
-    "reference": "Div VIII, Part IV of First Schedule"
+    "reference": "Div VIII, Part IV of First Schedule & Second Schedule"
   },
   {
     "section": "236C",
@@ -369,12 +405,12 @@
       "Up to Rs 50m: 4.5%",
       "Rs 50m to Rs 100m: 5%",
       "Above Rs 100m: 5.5%",
-      "Fixed at 11.5% for all tiers if not on ATL (as per Tenth Sched Table)."
+      "Specific Non-ATL rates per Tenth Schedule: Up to Rs 50m: 7.5%, Rs 50m-100m: 8.5%, Above 100m: 10%"
     ],
     "rates": {
       "atl": "4.50% - 5.50%",
-      "non_atl": "11.50%",
-      "late_filer": "7.50% - 9.50%"
+      "non_atl": "7.50% - 10.00%",
+      "late_filer": ""
     },
     "reference": "Div X, Part IV of First Sched & Tenth Schedule"
   },
@@ -413,9 +449,9 @@
     "category": "Sales",
     "title": "Sale to Distributors, Dealers or Wholesalers",
     "notes": [
-      "Fertilizer: 0.7% (Reduced to 0.25% if on ATL for both Income & Sales tax).",
+      "Fertilizer: 0.7%",
       "Other items: 0.1%",
-      "Fixed at 2% for non-ATL for other than fertilizer (as per Tenth Sched Table)."
+      "Fixed at 2% for non-ATL for other than fertilizer (as per Tenth Sched)."
     ],
     "rates": {
       "atl": "0.10% - 0.70%",
@@ -446,12 +482,12 @@
       "Up to Rs 50m: 3%",
       "Rs 50m to 100m: 3.5%",
       "Above Rs 100m: 4%",
-      "Higher specific rates for non-ATL and Late Filers (Tenth Schedule)."
+      "Specific Non-ATL rates per Tenth Schedule: Up to Rs 50m: 12%, Rs 50m-100m: 16%, Above Rs 100m: 20%"
     ],
     "rates": {
       "atl": "3.00% - 4.00%",
-      "non_atl": "10.50% - 18.50%",
-      "late_filer": "4.50% - 6.50%"
+      "non_atl": "12.00% - 20.00%",
+      "late_filer": ""
     },
     "reference": "Div XVIII, Part IV of First Sched & Tenth Schedule"
   },
