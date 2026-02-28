@@ -1,0 +1,31 @@
+[
+  {
+    "section": "153(2A)",
+    "category": "E-commerce",
+    "title": "E-commerce payments (digital means / courier COD)",
+    "notes": [
+      "Digital means / banking channels by payment intermediary",
+      "Cash on delivery by courier service"
+    ],
+    "rates": {
+      "atl": "1% (digital), 2% (COD)",
+      "non_atl": "2% (digital), 4% (COD)",
+      "late_filer": "-"
+    },
+    "reference": "Division-III Part-III First Schedule / Tenth Schedule"
+  },
+  {
+    "section": "231AB",
+    "category": "Banking",
+    "title": "Cash withdrawal (Non-ATL)",
+    "notes": [
+      "Applicable on cash withdrawals by non-filers as per law/rules"
+    ],
+    "rates": {
+      "atl": "-",
+      "non_atl": "0.80%",
+      "late_filer": "-"
+    },
+    "reference": "Division-I Part-IV First Schedule"
+  }
+]
